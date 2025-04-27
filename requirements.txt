@@ -1,0 +1,9 @@
+streamlit
+requests
+pandas
+plotly
+numpy
+scikit-learn
+mysql-connector-python
+python-dotenv
+datetime
